@@ -2,11 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Automatically runs every 12 hours
     - cron: "0 */12 * * *"
-  # Allows manual execution from the Actions tab
   workflow_dispatch:
-  # Runs automatically when changes are pushed to main
   push:
     branches:
       - main
@@ -20,11 +17,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Step 1: Checkout the main branch so the runner can modify it
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the snake SVGs directly into the repository root
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,11 +28,8 @@ jobs:
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Commit and push the SVGs directly back to the main branch
-      - name: Commit and Push SVGs to Main
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "chore: update github contribution snake animation [skip ci]" || echo "No changes to commit"
-          git push origin main
+      - name: Safe Commit and Push to Main Branch
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github contribution snake animation [skip ci]"
+          file_pattern: 'github-contribution-grid-snake*.svg'
