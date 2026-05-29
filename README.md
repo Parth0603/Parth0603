@@ -22,6 +22,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Parth0603/Parth0603/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ---
 
 <h2 align="center">LIVE DEVELOPMENT ACTIVITY</h2>
@@ -34,11 +40,6 @@
 
  
 
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Parth0603/Parth0603/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
