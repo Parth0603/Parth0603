@@ -1,115 +1,139 @@
-# 👋 Welcome to My Digital Workspace
+<p align="center">
 
-I'm **Parth Nagar**, a Software Engineer passionate about building scalable products, growing developer communities, and exploring the future of Web3.
+<img src="YOUR_CUSTOM_BANNER_HERE" width="100%" />
 
-### Current Roles
+</p>
 
-🚀 Software Engineer @ HiveMate
-💻 SDE Intern @ Alertcode
-🌐 Vice President @ Acropolis Blockchain Club
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1200&height=80&lines=PARTH+NAGAR;SOFTWARE+ENGINEER+%40+HIVEMATE;SDE+INTERN+%40+ALERTCODE;VICE+PRESIDENT+%40+ACROPOLIS+BLOCKCHAIN+CLUB;BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&color=00e5ff"/>
+
+<img src="https://img.shields.io/github/stars/Parth0603?style=for-the-badge&color=00e5ff"/>
+
+<img src="https://komarev.com/ghpvc/?username=Parth0603&style=for-the-badge&color=00e5ff"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://parthnagar.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00E5FF?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/parth-nagar-223826329/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🖥 SYSTEM STATUS
+# 🐍 LIVE CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Parth0603/Parth0603/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 REAL TIME ACTIVITY
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ACHIEVEMENT MATRIX
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🖥 TERMINAL
 
 ```bash
-USER............... Parth Nagar
-LOCATION........... India
-STATUS............. ONLINE
+$ boot parth
 
-CURRENT ROLE....... Software Engineer @ HiveMate
-SECONDARY ROLE..... SDE Intern @ Alertcode
-LEADERSHIP......... Vice President @ Acropolis Blockchain Club
+Loading profile...
 
-SPECIALIZATION..... Frontend Engineering
-INTERESTS.......... Startups, Web3, Product Development
+Name ............. Parth Nagar
 
-ACHIEVEMENT........ Top 10 @ East India Blockchain Summit 2.0
+Role ............. Software Engineer @ HiveMate
 
-CURRENT MISSION.... Building products that matter
+Secondary ........ SDE Intern @ Alertcode
+
+Leadership ....... Vice President @ Acropolis Blockchain Club
+
+Achievement ...... Top 10 @ EIBS 2.0
+
+Mission .......... Building products and communities
+
+Status ........... ONLINE
 ```
 
 ---
 
-## 🚀 ACTIVE MISSIONS
+# 🚀 MISSION CONTROL
 
-🟢 HiveMate Platform
-Building production-ready features and scalable frontend experiences.
+🟢 HiveMate
 
 🟢 SYNAPSE Hackathon
-Organizing a blockchain-focused hackathon connecting developers and innovators.
 
 🟢 AI Portfolio Generator
-Transforming resumes into professional portfolio websites using AI.
 
 🟢 Real Estate Marketplace
-Developing a modern property discovery platform with real-time data.
 
 🟢 Crypto Alert Bot
-Providing real-time cryptocurrency tracking and custom alerts.
 
 ---
 
-## ⚔ TECH ARSENAL
+# ⚔ TECH STACK
 
-### Frontend
+<p align="center">
 
-React.js • TypeScript • Next.js • Tailwind CSS • HTML • CSS • JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,figma,vercel,postman,vscode"/>
 
-### Backend
-
-Node.js • Express.js • REST APIs • API Integration
-
-### Tools
-
-Git • GitHub • Figma • Postman • Vercel • VS Code
-
-### Web3
-
-Blockchain • Solana Ecosystem • NFT Marketplaces • Cryptocurrency APIs
+</p>
 
 ---
 
-## 🏆 HIGHLIGHTS
+# 📊 ANALYTICS
 
-🏅 Top 10 - East India Blockchain Summit (EIBS) 2.0
+<p align="center">
 
-🚀 Promoted from Founding Intern to Software Engineer at HiveMate
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-💼 Working on production-level applications at Alertcode
+<img width="49%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true"/>
 
-🌐 Leading blockchain and Web3 initiatives at Acropolis Blockchain Club
-
-🎤 Organizing technical events, workshops, and hackathons
+</p>
 
 ---
 
-## 📈 JOURNEY
+# 🌐 CONNECT
 
-2024 → Started B.Tech Computer Science
+Portfolio:
+https://parthnagar.netlify.app
 
-2024 → Joined Acropolis Blockchain Club
+LinkedIn:
+https://linkedin.com/in/parth-nagar-223826329/
 
-2025 → SDE Intern @ Alertcode
+GitHub:
+https://github.com/Parth0603
 
-2025 → Vice President @ Acropolis Blockchain Club
-
-2026 → Founding Intern @ HiveMate
-
-2026 → Promoted to Software Engineer @ HiveMate
-
-2026 → Organizing SYNAPSE Hackathon
-
----
-
-## 🌐 CONNECT
-
-Portfolio → https://parthnagar.netlify.app
-
-LinkedIn → https://linkedin.com/in/parth-nagar-223826329/
-
-GitHub → https://github.com/Parth0603
-
----
-
-### Building products, startups, and communities 🚀
+```
+```
