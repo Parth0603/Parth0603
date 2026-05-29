@@ -75,9 +75,6 @@ Building:
 <img width="49%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0603&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
