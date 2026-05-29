@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-<a href="https://parthnagar.netlify.app">
+<a href="https://parthnagar.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Live-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
-<a href="https://linkedin.com/in/parth-nagar-223826329/">
+<a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0D1117"/>
 </a>
-<a href="https://github.com/Parth0603">
+<a href="https://github.com/Parth0603" target="_blank">
 <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=Followers"/>
 </a>
 </p>
