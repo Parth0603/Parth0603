@@ -32,7 +32,9 @@
 
 ---
 
-<h2 align="center">CONTRIBUTION SNAKE</h2>
+ 
+
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Parth0603/Parth0603/output/github-contribution-grid-snake-dark.svg"/>
