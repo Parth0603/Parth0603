@@ -4,14 +4,13 @@ on:
   schedule:
     # Automatically runs every 12 hours
     - cron: "0 */12 * * *"
-  # Allows you to manually trigger it anytime from the Actions tab
+  # Allows manual execution from the Actions tab
   workflow_dispatch:
-  # Runs automatically whenever you push to the main branch
+  # Runs automatically when changes are pushed to main
   push:
     branches:
       - main
 
-# Crucial permission block to allow the action to commit files to your repo
 permissions:
   contents: write
 
@@ -21,20 +20,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generates the snake game SVGs using the repo owner's contribution graph
+      # Step 1: Checkout the main branch so the runner can modify it
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the snake SVGs directly into the repository root
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Pushes the generated SVGs safely into a isolated 'output' branch
-      - name: Push SVGs to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Commit and push the SVGs directly back to the main branch
+      - name: Commit and Push SVGs to Main
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "chore: update github contribution snake animation [skip ci]" || echo "No changes to commit"
+          git push origin main
