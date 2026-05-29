@@ -1,61 +1,90 @@
+# Replace your entire README.md with this
+
+````md
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=PARTH+NAGAR;SOFTWARE+ENGINEER+%40+HIVEMATE;SDE+INTERN+%40+ALERTCODE;VICE+PRESIDENT+%40+ACROPOLIS+BLOCKCHAIN+CLUB;BUILDING+PRODUCTS+THAT+MATTER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&height=80&lines=PARTH+NAGAR;SOFTWARE+ENGINEER+%40+HIVEMATE;SDE+INTERN+%40+ALERTCODE;VICE+PRESIDENT+%40+ACROPOLIS+BLOCKCHAIN+CLUB;WEB3+BUILDER+%7C+STARTUP+ENGINEER" />
 </p>
 
-<div align="center">
+<p align="center">
+<a href="https://parthnagar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge\&logo=vercel)](https://parthnagar.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth_Nagar-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/parth-nagar-223826329/)
-[![GitHub](https://img.shields.io/badge/GitHub-Parth0603-black?style=for-the-badge\&logo=github)](https://github.com/Parth0603)
+<a href="https://linkedin.com/in/parth-nagar-223826329/">
+<img src="https://img.shields.io/badge/LinkedIn-Parth_Nagar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
+<a href="https://github.com/Parth0603">
+<img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge"/>
+</a>
+</p>
+
+<br>
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Parth0603/Parth0603/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-# 🖥️ SYSTEM STATUS
+# 📈 LIVE ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 ACHIEVEMENT WALL
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+# 🖥️ TERMINAL
 
 ```bash
-> booting developer profile...
+$ whoami
 
-Name: Parth Nagar
+Parth Nagar
 
-Role:
-├── Software Engineer @ HiveMate
-├── SDE Intern @ Alertcode
-└── Vice President @ Acropolis Blockchain Club
+Software Engineer @ HiveMate
+SDE Intern @ Alertcode
 
-Focus:
-├── Frontend Engineering
-├── Startup Product Development
-├── Web3 & Blockchain
-└── Scalable Web Applications
+Vice President
+Acropolis Blockchain Club
 
-Achievement:
-└── Top 10 @ East India Blockchain Summit (EIBS) 2.0
+Top 10 @ East India Blockchain Summit (EIBS) 2.0
 
-Current Mission:
-├── Organizing SYNAPSE Hackathon
-├── Building AI Portfolio Generator
-└── Developing Real Estate Marketplace
+Currently Building:
+
+→ SYNAPSE Hackathon
+→ AI Portfolio Generator
+→ Real Estate Marketplace
+→ Production Applications @ HiveMate
 
 Status: ONLINE 🟢
-```
+````
 
 ---
 
 # 🚀 MISSION CONTROL
 
-| Project                   | Status         |
-| ------------------------- | -------------- |
-| SYNAPSE Hackathon         | 🟢 Active      |
-| HiveMate Platform         | 🟢 Production  |
-| AI Portfolio Generator    | 🟢 Active      |
-| Real Estate Marketplace   | 🟢 Development |
-| Crypto Alert Telegram Bot | 🟢 Running     |
+| Project                 | Status         |
+| ----------------------- | -------------- |
+| HiveMate Platform       | 🟢 Production  |
+| SYNAPSE Hackathon       | 🟢 Active      |
+| AI Portfolio Generator  | 🟢 Active      |
+| Real Estate Marketplace | 🟢 Development |
+| Crypto Alert Bot        | 🟢 Running     |
 
 ---
 
-# ⚡ TECH ARSENAL
+# ⚔️ TECH ARSENAL
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,figma,vercel,vscode,postman" />
@@ -63,39 +92,19 @@ Status: ONLINE 🟢
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏅 ACHIEVEMENTS
 
-🏅 Top 10 - East India Blockchain Summit (EIBS) 2.0
+🏆 Top 10 - East India Blockchain Summit (EIBS) 2.0
 
-🚀 Promoted from Founding Intern → Software Engineer at HiveMate
+🚀 Promoted from Founding Intern → Software Engineer @ HiveMate
 
-💼 Software Engineer @ HiveMate
-
-⚡ SDE Intern @ Alertcode
+💼 SDE Intern @ Alertcode
 
 🌐 Vice President @ Acropolis Blockchain Club
 
-🎤 Organizer of Blockchain Events, Workshops & Hackathons
+🎤 Organizer of Blockchain Events & Hackathons
 
----
-
-# 📈 DEVELOPMENT JOURNEY
-
-```text
-2024 ───── Started B.Tech CSE
-
-2024 ───── Joined Acropolis Blockchain Club
-
-2025 ───── SDE Intern @ Alertcode
-
-2025 ───── Vice President @ Acropolis Blockchain Club
-
-2026 ───── Founding Intern @ HiveMate
-
-2026 ───── Promoted to Software Engineer @ HiveMate
-
-2026 ───── Organizing SYNAPSE Hackathon
-```
+⚡ Building Production-Ready Web Applications
 
 ---
 
@@ -113,52 +122,22 @@ Status: ONLINE 🟢
 
 ---
 
-# 🏅 TROPHY WALL
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyo-night" />
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 💭 RANDOM DEV QUOTE
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 # 🌐 CONNECT
 
 <p align="center">
+
 <a href="https://parthnagar.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://linkedin.com/in/parth-nagar-223826329/">
-<img src="https://img.shields.io/badge/LinkedIn-Parth_Nagar-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Parth_Nagar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Parth0603">
-<img src="https://img.shields.io/badge/GitHub-Parth0603-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Parth0603-black?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
@@ -168,5 +147,10 @@ Status: ONLINE 🟢
 </p>
 
 <p align="center">
-<b>Building products, communities, and scalable web experiences 🚀</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+<p align="center">
+<b>Building products, startups, and communities 🚀</b>
+</p>
+```
