@@ -2,8 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=PARTH%20NAGAR&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20HiveMate%20|%20SDE%20Intern%20@%20Alertcode&descAlignY=58&color=0:0D1117,50:112240,100:0A192F"/>
 </p>
 
+<h2 align="center">Achievements</h2>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Software+Engineer+%40+HiveMate;SDE+Intern+%40+Alertcode;Vice+President+%40+Acropolis+Blockchain+Club;Web3+Builder;Top+10+%40+EIBS+2.0;Building+Products+That+Matter" />
+<img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 <p align="center" >
