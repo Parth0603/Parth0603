@@ -43,7 +43,7 @@
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parth0603/Parth0603/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Parth0603/Parth0603/main/github-contribution-grid-snake.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
 </p>
 
 ---
