@@ -1,19 +1,6 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=PARTH%20NAGAR&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20HiveMate%20|%20SDE%20Intern%20@%20Alertcode&descAlignY=58&color=0:0D1117,50:112240,100:0A192F"/>
 </p>
-<br>
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<br>
 
 
 <p align="center" >
@@ -28,9 +15,6 @@
 </a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parth0603&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 <h2 align="center">Contribution Snake</h2>
 
