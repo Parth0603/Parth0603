@@ -1,118 +1,102 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=PARTH%20NAGAR&fontSize=75&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web3%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=58&color=0:0D1117,50:081F4D,100:0A192F"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=PARTH%20NAGAR&fontSize=75&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web3%20Systems%20Builder%20%7C%20Full-Stack%20Architect&descAlignY=58&color=0:0D1117,50:081F4D,100:0A192F"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+Products+That+Matter;Full+Stack+TypeScript+Developer;Web3+%26+Blockchain+Enthusiast;Software+Engineer+%40+HiveMate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=BUILDING+PRODUCTION+READY+SOFTWARE;FULL+STACK+TYPESCRIPT+ENGINEERING;DECENTRALIZED+ECOSYSTEM+ARCHITECTURE;SOFTWARE+ENGINEER+@+HIVEMATE" />
 </p>
 
 <p align="center">
   <a href="https://parthnagar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Live-00E5FF?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-PREVIEW%20LIVE-00E5FF?style=for-the-badge&labelColor=0D1117"/>
   </a>
   <a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=0D1117"/>
   </a>
   <a href="https://github.com/Parth0603">
-    <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&logo=github&label=Followers&color=00E5FF&labelColor=0D1117"/>
+    <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=FOLLOWERS&color=00E5FF&labelColor=0D1117"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## Profile Summary
 
-I am a passionate **Software Engineer** and **Web3 Builder** dedicated to crafting high-performance web applications, decentralized solutions, and fluid user experiences. I thrive on translating complex product logic into clean, scalable code architecture.
+A disciplined Software Engineer and Web3 Builder specializing in the engineering of high-performance web applications, distributed ledger platforms, and robust startup infrastructures. Experienced in translating complex product logic into pristine, modular, and maintainable production systems.
 
-* 🚀 **Current Focus:** Engineering production-ready ecosystem tools at **HiveMate**.
-* 💼 **Professional Experience:** Software Engineer at HiveMate | SDE Intern at Alertcode.
-* 🌐 **Community Leadership:** Vice President at the **Acropolis Blockchain Club**, driving regional Web3 adoption and tech community engagement.
-* 🌱 **Continuous Learning:** Deep diving into advanced asynchronous systems, decentralized protocols, and cutting-edge frontend tooling.
+| Specification | Operational Registry |
+| :--- | :--- |
+| **Current Enterprise Focus** | Software Engineer at HiveMate |
+| **Prior Industry Track** | SDE Intern at Alertcode |
+| **Ecosystem Leadership** | Vice President at Acropolis Blockchain Club |
+| **Core Specialization** | Full-Stack Web Systems, Decentralized Frameworks, API Architecture |
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Core Technology Stack
 
-### 💻 Frontend & State Management
+Languages & Runtimes : TypeScript, JavaScript, Node.js, HTML5, CSS3
+Frameworks & Libraries: React, Next.js, Express, Tailwind CSS
+Tooling & Automation  : Git, GitHub, Postman, Figma, Vercel, VS Code
+
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Tech Stack" />
-</p>
-
-### ⚙️ Backend, Tools & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vercel,postman,figma,vscode" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css,git,github,postman,figma,vercel,vscode&perline=15" alt="Tech Stack Matrix" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Systems Architecture & Deployments
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 HiveMate Platform</h3>
-      <p>A production-ready startup application engineered for seamless networking and cross-functional professional collaboration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Production-00E5FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-0D1117?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 SYNAPSE Hackathon Platform</h3>
-      <p>An interactive blockchain innovation hub designed to orchestrate registration, multi-track evaluations, and direct project tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-Organizer-00E5FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Domain-Web3%20%7C%20Ecosystem-0D1117?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Portfolio Generator</h3>
-      <p>An intelligent deployment tool designed to parse structured user resumes and dynamically generate responsive portfolio sites automatically.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20AI-00E5FF?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Real Estate Marketplace</h3>
-      <p>A modern real estate platform supporting performant geolocation queries, fluid map view integration, and direct property filtering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-Full%20Stack-00E5FF?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+| Platform System | Engineering Target | Status |
+| :--- | :--- | :--- |
+| **HiveMate Platform** | Production-grade ecosystem engine facilitating highly scalable professional cross-networking. | `PRODUCTION` |
+| **SYNAPSE System** | Decentralized infrastructure hub optimized for running multi-track blockchain hackathons. | `ACTIVE` |
+| **AI Portfolio Engine** | Automation microservice dynamically restructuring unstructured data models into responsive web deployments. | `ACTIVE` |
+| **Crypto Alert Matrix** | Low-latency monitoring and automated alerting pipelines targeting crypto market shifts. | `LIVE` |
+| **Real Estate Engine** | Modern asset marketplace supporting asynchronous location parsing and performant query indexing. | `IN DEVELOPMENT` |
 
 ---
 
-## 🏆 Key Milestones & Achievements
+## Professional Chronology
 
-* 🏅 **Top 10 Finalist** | East India Blockchain Summit (EIBS) 2.0
-* 📈 **Growth Track** | Promoted from Founding Intern → Full Software Engineer at HiveMate
-* 👥 **Ecosystem Builder** | Vice President at Acropolis Blockchain Club & Core Lead Organizer for SYNAPSE Hackathon
+[2026] -- Core Infrastructure Organizer | SYNAPSE Blockchain Hackathon
+[2026] -- Software Engineer | HiveMate Core Platform Systems
+[2026] -- Founding Systems Intern | HiveMate Engineering Division
+[2025] -- Vice President | Acropolis Blockchain Club Leadership
+[2025] -- Systems Engineering Intern | Alertcode Core Team
+[2024] -- Active Core Member | Acropolis Blockchain Club
+[2024] -- Academic Inception | B.Tech in Computer Science & Engineering
+
 
 ---
 
-## 📈 GitHub Metrics & Activity
+## Performance Telemetry & Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Parth's GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true" alt="Parth's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="System Activity Telemetry" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Global Statistics Metrics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true" alt="Deployment Streak Analytics" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Core Philosophy
+
+> "Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated."
+> — Edsger W. Dijkstra
+
+---
+
+## Communications Directory
 
 <p align="center">
-  <a href="https://parthnagar.netlify.app">🌐 Personal Portfolio</a> • 
-  <a href="https://linkedin.com/in/parth-nagar-223826329/">💼 LinkedIn Connect</a> • 
-  <a href="https://github.com/Parth0603">🐙 GitHub Profile</a>
+  <a href="https://parthnagar.netlify.app">Network Portfolio</a> • 
+  <a href="https://linkedin.com/in/parth-nagar-223826329/">Professional LinkedIn</a> • 
+  <a href="https://github.com/Parth0603">Source Control GitHub</a>
 </p>
 
 <p align="center">
