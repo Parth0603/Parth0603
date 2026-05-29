@@ -6,14 +6,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Software+Engineer+%40+HiveMate;SDE+Intern+%40+Alertcode;Vice+President+%40+Acropolis+Blockchain+Club;Web3+Builder;Top+10+%40+EIBS+2.0;Building+Products+That+Matter" />
 </p>
 
-<p align="center">
-<a href="https://parthnagar.netlify.app" target="_blank">
+<p align="center" >
+<a href="https://parthnagar.netlify.app" style="margin:0 10px;" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Live-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
-<a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank">
+<a href="https://linkedin.com/in/parth-nagar-223826329/" style="margin:0 10px;" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0D1117"/>
 </a>
-<a href="https://github.com/Parth0603" target="_blank">
+<a href="https://github.com/Parth0603" target="_blank" style="margin:0 10px;">
 <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=Followers"/>
 </a>
 </p>
