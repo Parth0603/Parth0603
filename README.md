@@ -1,119 +1,114 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=PARTH%20NAGAR&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20HiveMate%20|%20SDE%20Intern%20@%20Alertcode&descAlignY=58&color=0:0D1117,50:112240,100:0A192F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=PARTH%20NAGAR&fontSize=75&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20HiveMate%20|%20SDE%20Intern%20@%20Alertcode&descAlignY=58&color=0:0D1117,50:081F4D,100:0A192F"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Software+Engineer+%40+HiveMate;SDE+Intern+%40+Alertcode;Vice+President+%40+Acropolis+Blockchain+Club;Top+10+%40+EIBS+2.0;Building+Products+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+Products+That+Matter;Web3+Builder;Frontend+Engineer;Vice+President+%40+Acropolis+Blockchain+Club;Top+10+%40+EIBS+2.0" />
 </p>
 
 <p align="center">
+
 <a href="https://parthnagar.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
+
 <a href="https://linkedin.com/in/parth-nagar-223826329/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0D1117"/>
 </a>
+
 <a href="https://github.com/Parth0603">
 <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Parth0603&style=for-the-badge&color=00E5FF"/>
+
 </p>
 
 <br>
 
-<h2 align="center">Development Activity</h2>
+<h2 align="center">About Me</h2>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
+
+Software Engineer at HiveMate
+
+SDE Intern at Alertcode
+
+Vice President at Acropolis Blockchain Club
+
+Focused on building scalable products, startup solutions, and Web3 applications.
+
+</div>
 
 <br>
 
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,figma,vercel,postman,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,figma,vercel,vscode,postman"/>
+
 </p>
 
 <br>
 
-<h2 align="center">Current Status</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
-Software Engineer @ HiveMate
+🚀 HiveMate Platform
 
-SDE Intern @ Alertcode
+Production-ready startup application
 
-Vice President @ Acropolis Blockchain Club
+<br><br>
 
-Top 10 @ East India Blockchain Summit (EIBS) 2.0
+🌐 SYNAPSE Hackathon
 
-Currently Building
+Blockchain innovation event
 
-SYNAPSE Hackathon
+<br><br>
 
-AI Portfolio Generator
+🤖 AI Portfolio Generator
 
-Real Estate Marketplace
+Convert resumes into portfolio websites
+
+<br><br>
+
+🏠 Real Estate Marketplace
+
+Modern property discovery platform
 
 </div>
 
 <br>
 
-<h2 align="center">Active Projects</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HiveMate-Production-00E5FF?style=for-the-badge"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/SYNAPSE-Active-00E5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Portfolio-Active-00E5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Real_Estate-In_Development-0077B5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Crypto_Alert-Live-00E5FF?style=for-the-badge"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <br>
 
-<h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parth0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0603&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
-
-<h2 align="center">Journey</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
-2024 • Started B.Tech Computer Science
+Top 10 • East India Blockchain Summit (EIBS) 2.0
 
-2024 • Joined Acropolis Blockchain Club
+<br>
 
-2025 • SDE Intern @ Alertcode
+Promoted from Founding Intern → Software Engineer @ HiveMate
 
-2025 • Vice President @ Acropolis Blockchain Club
+<br>
 
-2026 • Founding Intern @ HiveMate
+Vice President @ Acropolis Blockchain Club
 
-2026 • Software Engineer @ HiveMate
+<br>
 
-2026 • Organizing SYNAPSE Hackathon
+Organizer of SYNAPSE Hackathon
 
 </div>
 
@@ -130,9 +125,5 @@ Real Estate Marketplace
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0D1117,50:112240,100:0A192F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0D1117,50:081F4D,100:0A192F"/>
 </p>
