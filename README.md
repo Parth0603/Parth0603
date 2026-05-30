@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=PARTH%20NAGAR&fontSize=75&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web3%20Systems%20Builder&descAlignY=58&color=0:0D1117,50:081F4D,100:0A192F"/>
+  <img width="100%" src="https://vercel.app"/>
 </p>
 
 <p align="center">
@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://parthnagar.netlify.app" target="_blank" title="Parth Nagar - Software Engineer Portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+  <a href="https://netlify.app" target="_blank" title="Parth Nagar - Software Engineer Portfolio">
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank" title="Parth Nagar - LinkedIn Public Profile">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=0D1117"/>
+  <a href="https://linkedin.com" target="_blank" title="Parth Nagar - LinkedIn Public Profile">
+    <img src="https://shields.io"/>
   </a>
-  <a href="https://github.com/Parth0603" title="Parth Nagar - GitHub Developer Profile">
-    <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=FOLLOWERS&color=00E5FF&labelColor=0D1117"/>
+  <a href="https://github.com" title="Parth Nagar - GitHub Developer Profile">
+    <img src="https://shields.io"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <h3>Technology Stack</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css,git,github,postman,figma,vercel,vscode&perline=5" alt="Tech Stack Matrix" />
+        <img src="https://skillicons.dev" alt="Tech Stack Matrix" />
       </p>
     </td>
   </tr>
@@ -43,7 +43,7 @@
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parth0603/Parth0603/main/github-contribution-grid-snake-dark.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
+  <img src="https://githubusercontent.com" alt="GitHub Contribution Grid Snake" width="100%" />
 </p>
 
 ---
@@ -76,21 +76,21 @@
 ### Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth0603&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="System Activity Telemetry" />
+  <img src="https://vercel.app" width="100%" alt="System Activity Telemetry" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parth0603&theme=tokyonight&hide_border=true" width="100%" alt="Streak Analytics" />
+  <img src="https://demolab.com" width="100%" alt="Streak Analytics" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://parthnagar.netlify.app" title="Parth Nagar Portfolio">Portfolio</a> • 
-  <a href="https://linkedin.com/in/parth-nagar-223826329/" title="Parth Nagar LinkedIn">LinkedIn</a> • 
-  <a href="https://github.com/Parth0603" title="Parth Nagar GitHub">GitHub</a>
+  <a href="https://netlify.app" title="Parth Nagar Portfolio">Portfolio</a> • 
+  <a href="https://linkedin.com" title="Parth Nagar LinkedIn">LinkedIn</a> • 
+  <a href="https://github.com" title="Parth Nagar GitHub">GitHub</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0D1117,50:081F4D,100:0A192F"/>
+  <img width="100%" src="https://vercel.app"/>
 </p>
