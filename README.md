@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=FULL+STACK+TYPESCRIPT+ENGINEERING;DECENTRALIZED+ECOSYSTEM+ARCHITECTURE;SOFTWARE+ENGINEER+@+HIVEMATE" />
+  <img src="https://herokuapp.com" />
 </p>
 
 <p align="center">
-  <a href="https://parthnagar.netlify.app" target="_blank">
+  <a href="https://parthnagar.netlify.app" target="_blank" title="Parth Nagar - Software Engineer Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00E5FF?style=for-the-badge&labelColor=0D1117"/>
   </a>
-  <a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank">
+  <a href="https://linkedin.com/in/parth-nagar-223826329/" target="_blank" title="Parth Nagar - LinkedIn Public Profile">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=0D1117"/>
   </a>
-  <a href="https://github.com/Parth0603">
+  <a href="https://github.com/Parth0603" title="Parth Nagar - GitHub Developer Profile">
     <img src="https://img.shields.io/github/followers/Parth0603?style=for-the-badge&label=FOLLOWERS&color=00E5FF&labelColor=0D1117"/>
   </a>
 </p>
@@ -27,7 +27,7 @@
       <p><b>Current Role:</b> Software Engineer at HiveMate</p>
       <p><b>Ecosystem:</b> Vice President at Acropolis Blockchain Club</p>
       <p><b>Exp-Track:</b> SDE Intern at Alertcode</p>
-      <p><b>Focus:</b> Scalable web systems and decentralized architectures.</p>
+      <p><b>Focus:</b> Scalable web systems, software engineering pipelines, and decentralized architectures.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Technology Stack</h3>
@@ -86,9 +86,9 @@
 ---
 
 <p align="center">
-  <a href="https://parthnagar.netlify.app">Portfolio</a> • 
-  <a href="https://linkedin.com/in/parth-nagar-223826329/">LinkedIn</a> • 
-  <a href="https://github.com/Parth0603">GitHub</a>
+  <a href="https://parthnagar.netlify.app" title="Parth Nagar Portfolio">Portfolio</a> • 
+  <a href="https://linkedin.com/in/parth-nagar-223826329/" title="Parth Nagar LinkedIn">LinkedIn</a> • 
+  <a href="https://github.com/Parth0603" title="Parth Nagar GitHub">GitHub</a>
 </p>
 
 <p align="center">
