@@ -40,14 +40,6 @@
 
 ---
 
-### Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parth0603/Parth0603/main/github-contribution-grid-snake-dark.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
-</p>
-
----
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
